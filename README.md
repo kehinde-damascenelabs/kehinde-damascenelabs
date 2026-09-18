@@ -25,7 +25,3 @@ Python • FastAPI • PostgreSQL • AWS • Terraform
 React • JavaScript • Docker • REST APIs • Twilio
 OpenAI • Anthropic
 
-## Featured Work
-
-- [Theo Prototype (ai-voice-agent_v0.1)](https://github.com/kehinde-damascenelabs/ai-voice-agent_v0.1)
-- [openai_backend](https://github.com/kehinde-damascenelabs/openai_backend)
